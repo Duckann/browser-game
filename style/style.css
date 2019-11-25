@@ -1,0 +1,34 @@
+.header {
+  	background-color: black;
+  	text-align: center;
+  	font-family: Brush Script MT;
+  	font-size: 75px;
+  	color: white;
+  	padding: 30px;
+}
+
+.text1 {
+	  	text-align: center;
+  	font-family: Courier New;
+  	font-size: 35px;
+  	color: white;
+}
+.topnav {
+  	font-family: Courier New;
+  	overflow: hidden;
+  	background-color: black;
+  	font-size: 35px;
+}
+
+.topnav a {
+  	display: block;
+  	color: #f2f2f2;
+  	text-align: center;
+  	padding: 14px 16px;
+  	text-decoration: none;
+}
+
+.topnav a:hover {
+  	background-color: #ddd;
+  	color: black;
+}
